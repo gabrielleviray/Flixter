@@ -25,10 +25,8 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 ### App Walkthough GIF
 ![Flixter](https://user-images.githubusercontent.com/66898730/155830194-920c16a5-426b-44b8-918d-fc350c354380.gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
-
 ### Notes
-Describe any challenges encountered while building the app.
+Overall I think the main challenge is learning Kotlin since its a new language to me. And so it took me awhile to understand how to implement features like the RecyclerView.
 
 ### Open-source libraries used
 
