@@ -26,7 +26,7 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthough GIF
 
-`TODO://` Add the![Flixterpt2](https://user-images.githubusercontent.com/66898730/156870513-4ec0e604-43c0-48ae-9166-04eef17a2cbb.gif)
+[Flixterpt2](https://user-images.githubusercontent.com/66898730/156870513-4ec0e604-43c0-48ae-9166-04eef17a2cbb.gif)
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
