@@ -25,13 +25,12 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
+![Flixterpt2](https://user-images.githubusercontent.com/66898730/156870687-16e6caca-9cec-4862-941a-05a89ed098af.gif)
 
-[Flixterpt2](https://user-images.githubusercontent.com/66898730/156870513-4ec0e604-43c0-48ae-9166-04eef17a2cbb.gif)
-<img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+The most challenging part is working with the API's.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
